@@ -1,0 +1,7 @@
+D:\MyCode\informatika\CompPract10\CompPract10\bin\Debug\CompPract10.exe.config
+D:\MyCode\informatika\CompPract10\CompPract10\bin\Debug\CompPract10.exe
+D:\MyCode\informatika\CompPract10\CompPract10\bin\Debug\CompPract10.pdb
+D:\MyCode\informatika\CompPract10\CompPract10\obj\Debug\CompPract10.csproj.AssemblyReference.cache
+D:\MyCode\informatika\CompPract10\CompPract10\obj\Debug\CompPract10.csproj.CoreCompileInputs.cache
+D:\MyCode\informatika\CompPract10\CompPract10\obj\Debug\CompPract10.exe
+D:\MyCode\informatika\CompPract10\CompPract10\obj\Debug\CompPract10.pdb
